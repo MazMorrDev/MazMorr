@@ -77,20 +77,6 @@ _Educational application with dynamic questions and real-time evaluation_
 - **Features:** Quiz management, score tracking, modular architecture
 - [View Repository](https://github.com/MazMorr/Quiz.git)
 
-## 🌱 Currently Learning & Improving
-
-- **.NET Ecosystem:** ASP.NET Core, Entity Framework, Web APIs
-- **Advanced Angular:** State management, performance optimization, RxJS
-- **Web Development:** Modern frontend practices, responsive design
-- **Best Practices:** Clean Code, SOLID principles, agile methodologies
-
-## 📈 What I'm Looking For
-
-- **Collaboration Opportunities** with tech companies in **Europe, North America, and South America**
-- **Internship Positions** where I can contribute to meaningful projects
-- **Web Development Projects** using .NET and Angular stack
-- **Mentorship** from experienced developers in the industry
-
 ## 📫 Let's Connect!
 
 - **Email:** marconchelo12@gmail.com
