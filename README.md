@@ -65,12 +65,10 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 📁 Interactive Quiz Repository: [View Repository](https://github.com/MazMorr/Quiz.git)
 
+
+## 📬 Contact & Info
 <pre>
-📬 Contact & Info
-├─ 📧 marconchelo12@gmail.com
-├─ 📞 +53 55505961  
-├─ 📍 Matanzas, Cuba 🇨🇺
-├─ 🌐 Open to remote opportunities worldwide
-├─ 🗣️ Spanish ▓▓▓▓▓▓▓▓▓▓▓▓ Native
-└─ 🗣️ English ▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
+✉️ marconchelo12@gmail.com  |  📞 +53 55505961 
+📍 Matanzas, Cuba 🇨🇺  |  🌐 Open to remote opportunities worldwide
+🗣️ Spanish ▓▓▓▓▓▓▓▓▓▓▓▓ Native  |   🗣️ English ▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
 </pre>
