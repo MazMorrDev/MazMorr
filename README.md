@@ -72,5 +72,5 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ├─ 📍 Matanzas, Cuba 🇨🇺
 ├─ 🌐 Open to remote opportunities worldwide
 ├─ 🗣️ Spanish ▓▓▓▓▓▓▓▓▓▓▓▓ Native
-└─ 🗣️ English ▓▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
+└─ 🗣️ English ▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
 </pre>
