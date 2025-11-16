@@ -12,7 +12,7 @@
 
 I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently in my 3rd year of Computer Engineering. I specialize in building robust, scalable applications with focus on **.NET and Angular**. With experience as a freelancer and teaching assistant, I bring both technical expertise and strong collaboration skills to every project.
 
-## Technical Stack
+## 🛠️ Technical Stack
 ```ascii art
 ┌────────────────────────────────┐  ┌─────────────────────────────────┐  ┌───────────────────────────────────────┐
 │          BACKEND DEV           │  │         FRONTEND DEV            │  │           DATABASES & TOOLS           │
