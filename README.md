@@ -68,7 +68,14 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 ## 📬 Contact & Info
 <pre>
-✉️ marconchelo12@gmail.com  |  📞 +53 55505961 
-📍 Matanzas, Cuba 🇨🇺  |  🌐 Open to remote opportunities worldwide
-🗣️ Spanish ▓▓▓▓▓▓▓▓▓▓▓▓ Native  |   🗣️ English ▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
+✉️ marconchelo12@gmail.com
+
+📞 +53 55505961 
+  
+📍 Matanzas, Cuba 🇨🇺
+
+🌐 Open to remote opportunities worldwide
+  
+🗣️ Spanish ▓▓▓▓▓▓▓▓▓▓▓▓ Native     
+🗣️ English ▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
 </pre>
