@@ -50,7 +50,6 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 [![Backend - .NET 8](https://img.shields.io/badge/BACKEND-.NET_8-512BD4?style=flat-square&logo=dotnet)](https://github.com/MazMorrDev/MiniMazErpBack)
 [![Frontend - Angular 21](https://img.shields.io/badge/FRONTEND-Angular_21-DD0031?style=flat-square&logo=angular)](https://github.com/MazMorrDev/MiniMazErpFront)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square)
 
 **Core Features:**
