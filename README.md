@@ -80,13 +80,7 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 ## 📬 Contact & Info
 
-![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-![Location](https://img.shields.io/badge/Matanzas,_Cuba-005CAA?style=for-the-badge&logo=googlemaps&logoColor=white) ![Cuba](https://img.shields.io/badge/🇨🇺-Flag_of_Cuba?style=for-the-badge)
-
-![Remote Work](https://img.shields.io/badge/Open_to_Remote_Opportunities_Worldwide-0088CC?style=for-the-badge&logo=remote&logoColor=white)
+![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Location](https://img.shields.io/badge/Matanzas,_Cuba-005CAA?style=for-the-badge&logo=googlemaps&logoColor=white) ![Remote Work](https://img.shields.io/badge/Open_to_Remote_Opportunities_Worldwide-0088CC?style=for-the-badge&logo=remote&logoColor=white)
 
 ### **Languages**
 ![Spanish](https://img.shields.io/badge/Español-Nativo-2E8B57?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓-100%25-2E8B57?style=flat-square)
