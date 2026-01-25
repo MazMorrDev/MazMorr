@@ -84,6 +84,5 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Remote Work](https://img.shields.io/badge/Open_to_Remote_Opportunities_Worldwide-0088CC?style=for-the-badge&logo=remote&logoColor=white)
 
 ### **Languages**
-![Spanish](https://img.shields.io/badge/Español-Nativo-2E8B57?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓-100%25-2E8B57?style=flat-square)
-
+![Spanish](https://img.shields.io/badge/Español-Nativo-2E8B57?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓-100%25-2E8B57?style=flat-square) 
 ![English](https://img.shields.io/badge/English-B1_Intermediate-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░░░-65%25-1E90FF?style=flat-square)
