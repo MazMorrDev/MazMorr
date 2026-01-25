@@ -37,7 +37,7 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### **IDEs**
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed-editor&logoColor=white)
 
 ## 💼 Featured Projects
 
@@ -46,8 +46,7 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 [![Backend - .NET](https://img.shields.io/badge/BACKEND-.NET-512BD4?style=flat-square&logo=dotnet)](https://github.com/MazMorrDev/MiniMazErpBack)
 [![Frontend - Angular](https://img.shields.io/badge/FRONTEND-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/MazMorrDev/MiniMazErpFront)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Core Features:**
 - **Complete CRUD Operations** for inventory, users, and expenses
