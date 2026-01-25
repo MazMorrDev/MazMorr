@@ -20,8 +20,6 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-**Architecture:** REST • MVC • Minimal API
-
 ### **Frontend Development**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,9 +27,7 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**Tools:** Angular CLI
-
-### **Databases & Tools**
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -45,11 +41,12 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 ## 💼 Featured Projects
 
-### **MiniMaz ERP - Inventory & Sales System** 🚀
+### **[MiniMaz ERP - Inventory & Sales System](https://github.com/MazMorrDev/MiniMazErpBack)** 🚀
 **A full-stack business management system built with modern .NET and Angular.**
 
-[![Backend - .NET 8](https://img.shields.io/badge/BACKEND-.NET_8-512BD4?style=flat-square&logo=dotnet)](https://github.com/MazMorrDev/MiniMazErpBack)
-[![Frontend - Angular 21](https://img.shields.io/badge/FRONTEND-Angular_21-DD0031?style=flat-square&logo=angular)](https://github.com/MazMorrDev/MiniMazErpFront)
+[![Backend - .NET](https://img.shields.io/badge/BACKEND-.NET-512BD4?style=flat-square&logo=dotnet)](https://github.com/MazMorrDev/MiniMazErpBack)
+[![Frontend - Angular](https://img.shields.io/badge/FRONTEND-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/MazMorrDev/MiniMazErpFront)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square)
 
 **Core Features:**
@@ -60,26 +57,31 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 **Tech Stack:** `C#` `ASP.NET Core` `Entity Framework` `Angular` `TypeScript` `PostgreSQL`
 
+**🔗 Links:** [Backend Repository](https://github.com/MazMorrDev/MiniMazErpBack) • [Frontend Repository](https://github.com/MazMorrDev/MiniMazErpFront)
+
 ---
 
-### **Interactive Quiz - Educational Application** 🧠
-**A dynamic quiz application with real-time scoring and JavaFX interface.**
+### **[Business Manager Lite](https://github.com/MazMorrDev/Business-Manager-Lite)** 💼
+**A lightweight business management application for small businesses and entrepreneurs, built with Spring Boot and JavaFX.**
 
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square&logo=springboot)
 ![JavaFX](https://img.shields.io/badge/UI-JavaFX-ED8B00?style=flat-square&logo=java)
 ![H2 Database](https://img.shields.io/badge/DB-H2_Database-4479A1?style=flat-square&logo=h2)
 
 **Highlights:**
-- **Dynamic Question Management** with various quiz formats
-- **Real-time Scoring System** for immediate feedback
-- **Responsive JavaFX UI** for enhanced user experience
-- **Data Persistence** with in-memory H2 database
+- **Client & Supplier Management** with complete contact tracking
+- **Product Inventory Control** with stock monitoring
+- **Sales & Invoice Management** for transaction tracking
+- **Real-time Data Persistence** with H2 database
+- **Modern JavaFX Interface** for enhanced user experience
 
-**Tech Stack:** `Java` `Spring Boot` `JavaFX` `H2 Database`
+**Tech Stack:** `Java` `Spring Boot` `JavaFX` `H2 Database` `Maven`
+
+**🔗 Link:** [Business Manager Lite Repository](https://github.com/MazMorrDev/Business-Manager-Lite)
 
 ## 📬 Contact & Info
 
-![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Location](https://img.shields.io/badge/Matanzas,_Cuba-005CAA?style=for-the-badge&logo=googlemaps&logoColor=white) ![Remote Work](https://img.shields.io/badge/Open_to_Remote_Opportunities_Worldwide-0088CC?style=for-the-badge&logo=remote&logoColor=white)
+![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Remote Work](https://img.shields.io/badge/Open_to_Remote_Opportunities_Worldwide-0088CC?style=for-the-badge&logo=remote&logoColor=white)
 
 ### **Languages**
 ![Spanish](https://img.shields.io/badge/Español-Nativo-2E8B57?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓-100%25-2E8B57?style=flat-square)
