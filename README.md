@@ -1,11 +1,11 @@
 ```ascii art
-░███     ░███                       ░███     ░███                              ░███████                         
-░████   ░████                       ░████   ░████                              ░██   ░██                        
-░██░██ ░██░██  ░██████   ░█████████ ░██░██ ░██░██  ░███████  ░██░████ ░██░████ ░██    ░██  ░███████  ░██    ░██ 
+░███     ░███                       ░███     ░███                            ░███████                         
+░████   ░████                       ░████   ░████                             ██   ░██                        
+░██░██ ░██░██  ░██████   ░█████████   ░██░██ ░██░██  ░███████  ░██░████ ░██░████  ░██    ░██  ░███████  ░██    ░██ 
 ░██ ░████ ░██       ░██       ░███  ░██ ░████ ░██ ░██    ░██ ░███     ░███     ░██    ░██ ░██    ░██ ░██    ░██ 
-░██  ░██  ░██  ░███████     ░███    ░██  ░██  ░██ ░██    ░██ ░██      ░██      ░██    ░██ ░█████████  ░██  ░██  
-░██       ░██ ░██   ░██   ░███      ░██       ░██ ░██    ░██ ░██      ░██      ░██   ░██  ░██          ░██░██   
-░██       ░██  ░█████░██ ░█████████ ░██       ░██  ░███████  ░██      ░██      ░███████    ░███████     ░███    
+░██  ░██  ░██  ░███████     ░███    ░██  ░██  ░██ ░██    ░██ ░██      ░██      ░██    ░██ ░█████████  ░██   ░██  
+░██       ░██ ░██   ░██   ░███     ░██       ░██ ░██    ░██ ░██      ░██      ░██   ░██  ░██          ██ ░██   
+░██       ░██  ░█████░██ ░█████████ ░██       ░██  ░███████  ░██      ░██      ░███████    ░███████     ░ ███    
 ```                                                                                                                
 **Computer Engineering Student | Backend Developer | .NET & Angular Enthusiast**
 
@@ -78,10 +78,3 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 [![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marconchelo12@gmail.com)
 [![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5355505961)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mazmorrdev.is-a.dev)
-
-## Github Statistics
-
-<a href="https://mazmorrdev.is-a.dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mazmorrdev&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mazmorrdev&layout=compact&hide=html&langs_count=8&theme=dracula"/>
-</a>
